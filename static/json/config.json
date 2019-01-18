@@ -1,0 +1,13 @@
+{
+  "provinceId" : 1,
+  "provinceName" : "江苏",
+  "cityId" : 5,
+  "countyId" : 504,
+  "systemLogo":"http://221.226.175.82:9918/images/img/2018/03/16/81ec8e84fa0442d8964836434f27c79b.png",
+  "systemBg":"http://221.226.175.82:9918/images/img/2018/03/16/78b0b985860c49f0ab40b9d119ffb561.png",
+  "systemName":"江苏旅游客情监测与分析平台",
+  "sysId" : 12,
+  "systemConfigId": 1,
+  "visualKey": "751ad75f9c8148fd88f1915e3d6badda",
+  "locationAuthKey": "751ad75f9c8148fd88f1915e3d6badda"
+}
